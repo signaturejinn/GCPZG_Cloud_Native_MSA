@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Google GCP-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <!--gcp-->
 
 #### OS
-<img src="https://img.shields.io/badge/Google Container-Optimzed OS-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <!--gcp-->
+<img src="https://img.shields.io/badge/Google Container_Optimzed OS-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <!--gcp-->
 
 #### DB
 <img src="https://img.shields.io/badge/mysql 5.7-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <!--mysql-->
