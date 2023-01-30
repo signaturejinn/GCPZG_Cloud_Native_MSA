@@ -1,8 +1,8 @@
 # Cloud Native 기반 MSA 웹 서비스 구축
-### MSA 웹 서비스
-### IaC 인프라
-### Container 기반 인프라
-### 실시간 모니터링
+### - MSA 웹 서비스
+### - IaC 인프라
+### - Container 기반 인프라
+### - 실시간 모니터링
 
 </br>
 
