@@ -33,11 +33,11 @@
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">  <!--k8s-->
 <img src="https://img.shields.io/badge/GCP GKE-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <!--gcp gke-->
 
-Google Sheets
+### Google Sheets
 <img src="https://img.shields.io/badge/Google Sheets-34A853?style=for-the-badge&logo=Google Sheets&logoColor=white"> <!--gcp-->
 <img src="https://img.shields.io/badge/Looker Studio-276DC3?style=for-the-badge&logo=Looker&logoColor=white"> <!--Looker-->
 
-CI/CD
+### CI/CD
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">  <!--jenkins-->
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=Argo&logoColor=white">  <!--argocd-->
 <img src="https://img.shields.io/badge/GCP Cloud Build-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <!--gcp-->
