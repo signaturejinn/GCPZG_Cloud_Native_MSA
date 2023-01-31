@@ -67,7 +67,7 @@ VPC 내부에 GKE만 있고, GKE 관련 방화벽 정책은 Google Cloud 완전 
 </br>
 
 ## Terraform Cloud
-### - 구현 목표
+### ✅ 구현 목표
 ```
 사용자를 *Owner*와 *Ops* 그룹으로 **분류하여 권한을 다르게 설정해주는 것이 목표
 - Owner : `모든 권한`을 가지고 있음
@@ -76,7 +76,7 @@ VPC 내부에 GKE만 있고, GKE 관련 방화벽 정책은 Google Cloud 완전 
 
 </br>
 
-### - 구현 과정
+### ✅ 구현 과정
 ### 1. Workspaces > Workspace 선택
 ![image](https://user-images.githubusercontent.com/117608997/215797468-fc0f982c-16fd-40ca-aa80-9d4d07fdfbdf.png)
 
