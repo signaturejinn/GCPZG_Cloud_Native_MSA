@@ -67,7 +67,7 @@ VPC 내부에 GKE만 있고, GKE 관련 방화벽 정책은 Google Cloud 완전 
 </br>
 
 ## Terraform Cloud
-### 구현 목표
+### - 구현 목표
 ```
 사용자를 *Owner*와 *Ops* 그룹으로 **분류하여 권한을 다르게 설정해주는 것이 목표
 - Owner : `모든 권한`을 가지고 있음
@@ -76,31 +76,31 @@ VPC 내부에 GKE만 있고, GKE 관련 방화벽 정책은 Google Cloud 완전 
 
 </br>
 
-### 구현 과정
-1. Workspaces > Workspace 선택
+### - 구현 과정
+### 1. Workspaces > Workspace 선택
 ![image](https://user-images.githubusercontent.com/117608997/215797468-fc0f982c-16fd-40ca-aa80-9d4d07fdfbdf.png)
 
 </br>
 
-2. Settings > Team Access > Add team and permissions
+### 2. Settings > Team Access > Add team and permissions
 ![image](https://user-images.githubusercontent.com/117608997/215797490-33a595f0-3574-4c7c-80e6-5055e012414f.png)
 ![image](https://user-images.githubusercontent.com/117608997/215797519-45ebabe4-8a46-4df3-ae8f-b15582d9d821.png)
 
 </br>
 
-3. Select team
+### 3. Select team
 ![image](https://user-images.githubusercontent.com/117608997/215797534-54561fa5-089c-4393-a069-58238c7dda56.png)
 
 </br>
 
-4. Team Permissions 설정
+### 4. Team Permissions 설정
 - 상세 권한 설정
 ![image](https://user-images.githubusercontent.com/117608997/215797551-f37cf564-bde3-48f3-8c24-df91e5b802b2.png)
 ![image](https://user-images.githubusercontent.com/117608997/215797573-23fea3f4-c93d-4504-9e29-f9306edbdb1c.png)
 
 </br>
 
-5. 테스트 및 결과
+### 5. 테스트 및 결과
 ```
 권한 없는 그룹(Ops) 사용자로 RUN 실행 시,  Plan은 되지만 Apply는 불가능 한 것을 확인
 ```
