@@ -131,9 +131,9 @@ Cloud Monitoring을 활용한 대시보드로 지속적인 모니터링
 ### 🔗 Notion Link
 #### - [GCP MSA 2-Tier Infra Project](https://glen-party-257.notion.site/GCP-MSA-2-Tier-Project-7e1542b3b8e44bd0b3583f87f86802af)
 
-## 🔗 Git Link
-### - [Terraform](https://github.com/signaturejinn/GCPZG_Cloud_Native_MSA/tree/main/Terraform)
-### - [Application](https://github.com/signaturejinn/GCPZG_Cloud_Native_MSA/tree/main/Application)
-### - [Monitoring](https://github.com/signaturejinn/GCPZG_Cloud_Native_MSA/blob/main/Monitoring/README.md)
+### 🔗 Git Link
+#### - [Terraform](https://github.com/signaturejinn/GCPZG_Cloud_Native_MSA/tree/main/Terraform)
+#### - [Application](https://github.com/signaturejinn/GCPZG_Cloud_Native_MSA/tree/main/Application)
+#### - [Monitoring](https://github.com/signaturejinn/GCPZG_Cloud_Native_MSA/blob/main/Monitoring/README.md)
 
 </br>
