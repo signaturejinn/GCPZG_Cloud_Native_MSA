@@ -72,8 +72,6 @@
 </br>
 
 ## 🙋🏻‍♂️ 담당 업무
-- IaC 테라폼을 활용한 인프라 구축
-- Terraform Cloud를 활용한 CI/CD 자동화 구현
 - GKE를 활용한 컨테이너 기반 MSA 웹 애플리케이션 구축
 - Cloud SQL을 활용한 DB 구축 및 이중화를 통한 고가용성
 - Cloud Build와 ArgoCD 애플리케이션 CI/CD 자동화 구현
