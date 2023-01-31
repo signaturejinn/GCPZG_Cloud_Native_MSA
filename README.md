@@ -112,11 +112,6 @@ Slack을 활용한 실시간 알람 및 모니터링
 
 </br>
 
-### - [Terraform](https://github.com/signaturejinn/GCPZG_Cloud_Native_MSA/tree/main/Terraform)
-### - [Application](https://github.com/signaturejinn/GCPZG_Cloud_Native_MSA/tree/main/Application)
-
-</br>
-
 ### 📌 Monitoring Architecture
 ![image](https://user-images.githubusercontent.com/117608997/215615830-834c28c6-3a3d-4647-9089-542c1311a417.png)
 ```
@@ -124,10 +119,6 @@ BigQuery와 Looker를 활용한 실시간 Log Data 시각화
 Cloud Monitoring을 활용한 대시보드로 지속적인 모니터링
 이상 상황 발생 시 Slack을 통해 실시간 알람 및 신속한 장애 처리 가능
 ```
-
-</br>
-
-### - [Monitoring](https://github.com/signaturejinn/GCPZG_Cloud_Native_MSA/blob/main/Monitoring/README.md)
 
 </br>
 
@@ -139,5 +130,10 @@ Cloud Monitoring을 활용한 대시보드로 지속적인 모니터링
 ## ⛓️ 구축 과정
 ### 🔗 Notion Link
 #### - [GCP MSA 2-Tier Infra Project](https://glen-party-257.notion.site/GCP-MSA-2-Tier-Project-7e1542b3b8e44bd0b3583f87f86802af)
+
+## 🔗 Git Link
+### - [Terraform](https://github.com/signaturejinn/GCPZG_Cloud_Native_MSA/tree/main/Terraform)
+### - [Application](https://github.com/signaturejinn/GCPZG_Cloud_Native_MSA/tree/main/Application)
+### - [Monitoring](https://github.com/signaturejinn/GCPZG_Cloud_Native_MSA/blob/main/Monitoring/README.md)
 
 </br>
