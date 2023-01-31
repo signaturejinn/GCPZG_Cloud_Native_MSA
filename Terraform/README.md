@@ -1,4 +1,4 @@
-## Terraform 세부사항
+## Terraform 세부사항 - Infra
 ### - Terraform Architecture
 ![image](https://user-images.githubusercontent.com/117608997/215787778-f8978493-c220-4730-bbdd-b12606e77ec0.png)
 
@@ -66,7 +66,7 @@ VPC 내부에 GKE만 있고, GKE 관련 방화벽 정책은 Google Cloud 완전 
 
 </br>
 
-## Terraform Cloud
+## Terraform Cloud - CI/CD
 ### ✅ 구현 목표
 ```
 사용자를 *Owner*와 *Ops* 그룹으로 **분류하여 권한을 다르게 설정해주는 것이 목표
