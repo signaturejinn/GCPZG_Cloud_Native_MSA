@@ -12,8 +12,10 @@ Big Query
 - 필터링 된 Log Data 저장 및 테이블화
 Looker
 - Big Query에 저장된 Log Data의 분석 및 보고서화
+```
 
 </br>
+
 ### Monitoring Visualization
 - Looker
 ![image](https://user-images.githubusercontent.com/117608997/215815272-abb1b574-d001-41f0-9a98-b87efa6a2257.png)
@@ -22,6 +24,7 @@ HTTP(S) LB Log Data 분석 자료 시각화
 - 위치 기반 Log Data 분석
 - 시간 별 Log Data 분석
 ```
+
 </br>
 
 - Cloud Monitoring
