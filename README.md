@@ -25,6 +25,7 @@
 
 #### DB
 <img src="https://img.shields.io/badge/mysql 5.7-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <!--mysql-->
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <!--gcp-->
 
 ### Container
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">  <!--Docker-->
@@ -33,24 +34,28 @@
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">  <!--k8s-->
 <img src="https://img.shields.io/badge/GCP GKE-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <!--gcp gke-->
 
-### Google Sheets
-<img src="https://img.shields.io/badge/Google Sheets-34A853?style=for-the-badge&logo=Google Sheets&logoColor=white"> <!--gcp-->
-<img src="https://img.shields.io/badge/Looker Studio-276DC3?style=for-the-badge&logo=Looker&logoColor=white"> <!--Looker-->
-
 ### CI/CD
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">  <!--jenkins-->
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=Argo&logoColor=white">  <!--argocd-->
 <img src="https://img.shields.io/badge/GCP Cloud Build-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <!--gcp-->
 <img src="https://img.shields.io/badge/Terraform Cloud-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white">  <!--terraform cloud-->
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&logoColor=white"> <!--Helm-->
+
+### Monitoring
+<img src="https://img.shields.io/badge/Cloud Monitoring-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <!--gcp-->
+<img src="https://img.shields.io/badge/Cloud Logging-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"> <!--gcp-->
+<img src="https://img.shields.io/badge/Looker Studio-276DC3?style=for-the-badge&logo=Looker&logoColor=white"> <!--Looker-->
+<img src="https://img.shields.io/badge/Fluent Bit-49BDA5?style=for-the-badge&logo=FluentBit&logoColor=white">  <!--Fluentbit-->
 
 ### Framework
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">  <!--spring-->
 
 #### Team Collabolation Tool
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <!--Notion-->
-<img src="https://img.shields.io/badge/Drawio-000000?style=for-the-badge&logo=Drawio&logoColor=white"> <!--Draw.io-->
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <!--Git-->
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> <!--Github-->
+
+#### Architecture Draw Tool
+<img src="https://img.shields.io/badge/Drawio-000000?style=for-the-badge&logo=Drawio&logoColor=white"> <!--Draw.io-->
 
 </br>
 
