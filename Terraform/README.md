@@ -71,7 +71,7 @@ VPC 내부에 GKE만 있고, GKE 관련 방화벽 정책은 Google Cloud 완전 
 
 ### ✅ 구현 목표
 ```
-사용자를 *Owner*와 *Ops* 그룹으로 **분류하여 권한을 다르게 설정해주는 것이 목표
+사용자를 Owner와 Ops 그룹으로 분류하여 권한을 다르게 설정해주는 것이 목표
 - Owner : `모든 권한`을 가지고 있음
 - Ops : `apply`를 제외한 `plan` 단계까지 `run` 가능, `변수` read/wirte, `tfstate` read only
 ```
