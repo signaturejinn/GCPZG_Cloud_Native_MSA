@@ -4,7 +4,8 @@
 ```
 GKE 서비스 내 NEG를 활용한 부하분산 관리
 기존 kubernetes 네트워킹의 한계인 doubile-hop-dilemma를 극복
-- double-hop dilemma : LoadBalancer가 트래픽을 목적지 Pod가 존재하지 않는 Node로 보낸 경우에는 Pod가 존재하는 Node로 한 번 더 트래픽을 보내는 것
+- double-hop dilemma : LoadBalancer가 트래픽을 목적지 Pod가 존재하지 않는 Node로 보낸 경우에는
+Pod가 존재하는 Node로 한 번 더 트래픽을 보내는 것
 ```
 
 </br>
