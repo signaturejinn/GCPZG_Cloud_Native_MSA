@@ -138,7 +138,7 @@ Cloud Monitoring을 활용한 대시보드로 지속적인 모니터링
 </br>
 
 ### 📌 요구사항 점검
-![image](https://user-images.githubusercontent.com/117608997/215615904-ad6cbd7f-4a3e-40d8-9aed-4bd1cf5ee736.png)
+![image](https://user-images.githubusercontent.com/117608997/216549519-6dc50a19-a6f8-4839-97dc-0d716fe04d45.png)
 
 </br>
 
