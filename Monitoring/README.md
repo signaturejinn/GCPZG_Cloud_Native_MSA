@@ -1,9 +1,9 @@
-## 🔎 Monitoring
-### 📅 WBS
+## 📅 WBS
 ![image](https://user-images.githubusercontent.com/117608997/216758323-ad6bb1e5-ec84-4022-bb90-900a0ae87b2b.png)
 
 </br>
 
+## 🔎 Monitoring
 ### Monitoring Tools
 ![image](https://user-images.githubusercontent.com/117608997/215812977-a719c414-a8ec-434a-8a6f-340f9e6d35a0.png)
 ```
