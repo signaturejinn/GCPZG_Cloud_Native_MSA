@@ -9,7 +9,7 @@
 ## 🗓️ 진행 기간
 - 2022.11.14 ~ 2022.12.14 (총 31일)
 
-### - WBS
+### ✅ WBS(Work Breakdown Structure)
 
 #### - 자료 조사
 ![image](https://user-images.githubusercontent.com/117608997/216757797-fa94ce1e-673c-458f-b23f-3cecdbdc428f.png)
