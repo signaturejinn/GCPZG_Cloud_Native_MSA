@@ -1,5 +1,4 @@
-## Application Infra
-### 📅 WBS
+## 📅 WBS
 ### - Infra 
 ![image](https://user-images.githubusercontent.com/117608997/216758446-51148591-2d56-47a7-927d-38701e423709.png)
 
@@ -8,6 +7,7 @@
 
 </br>
 
+## Application Infra
 ### - GKE Flow
 ![image](https://user-images.githubusercontent.com/117608997/215800467-3bc59726-7cb6-4450-9547-c4a77c7501e2.png)
 ```
