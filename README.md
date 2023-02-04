@@ -7,7 +7,28 @@
 </br>
 
 ## 🗓️ 진행 기간
-- 2022.11.14 ~ 2022.12.14
+- 2022.11.14 ~ 2022.12.14 (총 31일)
+
+### - WBS
+
+#### - 자료 조사
+![image](https://user-images.githubusercontent.com/117608997/216757797-fa94ce1e-673c-458f-b23f-3cecdbdc428f.png)
+
+#### - 설계
+![image](https://user-images.githubusercontent.com/117608997/216757762-beab6aa6-ef67-4a1a-8ebc-0ee1424e66b2.png)
+
+#### - 산출물
+![image](https://user-images.githubusercontent.com/117608997/216757812-8dac6d90-97c7-47cf-b599-22431d92be75.png)
+
+#### - 테스트
+![image](https://user-images.githubusercontent.com/117608997/216757782-b1cfe55b-6d70-4d35-8ebb-009165f1847d.png)
+
+#### - 문제해결
+![image](https://user-images.githubusercontent.com/117608997/216757819-7f266c10-fd88-444f-9c91-acfd8b168d79.png)
+
+#### - 구현
+![image](https://user-images.githubusercontent.com/117608997/216757771-03dae175-34e3-40e2-813b-663192028cb1.png)
+
 
 </br>
 
